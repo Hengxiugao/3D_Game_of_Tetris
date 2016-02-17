@@ -2,3 +2,4 @@
 
 I have designed a playable 3D Tetris using Java, implemented the Hidden-Face Elimination and Z-buffer algorithm, the main area of the game and each 3D shapes are rotatable, a light effect has also been implemented. 
 
+http://www.hgao.co/wp-admin/post.php?post=66&action=edit
