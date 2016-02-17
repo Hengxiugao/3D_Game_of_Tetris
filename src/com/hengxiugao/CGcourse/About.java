@@ -33,7 +33,7 @@ public class About extends JFrame{
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				URI uri = null;
-				
+
 				Desktop dtp = Desktop.getDesktop();
 				if(dtp.isDesktopSupported()&&dtp.isSupported(Desktop.Action.BROWSE))
 				{
@@ -49,11 +49,11 @@ public class About extends JFrame{
 						e1.printStackTrace();
 					}
 				}
-				
+
 			}
-			
+
 		});
-		
+
 		add(l1);
 		add(l2);
 		add(l3);
